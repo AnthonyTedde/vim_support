@@ -41,10 +41,6 @@ rem ----------------------------------------------------
 rem Set directories
 rem ----------------------------------------------------
 
-~~set vim_src="vim\\src\\"~~
-~~set workdir="..\\..\\workdir\\"~~
-~~set logfile=%workdir%log.txt~~
-
 PATH = C:\MinGW\bin;%PATH%
 ```
 
